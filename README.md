@@ -2,19 +2,23 @@
 
 # Olá! 👋
 
-### Eu sou **Bruno Brandão**  
+Eu sou **Bruno Brandão**  
 Desenvolvedor de Software Full Stack com foco em **.NET** e **Vue.js**
 
-Gosto de construir **sistemas limpos, escaláveis e fáceis de manter**, aplicando  
-**Clean Architecture**, **CQRS**, **APIs REST** e **boas práticas de engenharia**.  
+Gosto de construir sistemas limpos, escaláveis e fáceis de manter, aplicando  
+**Clean Architecture**, **CQRS**, **APIs REST** e boas práticas de engenharia.  
 Acredito que o aprendizado é contínuo e sempre deve ser incentivado.
 
 > “A busca por aprender nunca deve parar e deve ser incentivada.”
 
-</div>
+<a href="https://www.linkedin.com/in/brunobrand%C3%A3odl/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="200" />
+<br/><br/>
+
+<img src="https://media.giphy.com/media/13Uqp5IGFpmDle/giphy.gif" width="340" />
+
 </div>
 ---
 

@@ -11,13 +11,9 @@ Acredito que o aprendizado é contínuo e sempre deve ser incentivado.
 
 > “A busca por aprender nunca deve parar e deve ser incentivada.”
 
-<a href="https://www.linkedin.com/in/brunobrand%C3%A3odl/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
 <br/><br/>
 
-<img src="https://media.giphy.com/media/13Uqp5IGFpmDle/giphy.gif" width="340" />
+<img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="340" />
 
 </div>
 ---
@@ -59,7 +55,7 @@ Acredito que o aprendizado é contínuo e sempre deve ser incentivado.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](COLE_SEU_LINK_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunobrand%C3%A3odl)
 
 </div>
 
